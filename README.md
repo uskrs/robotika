@@ -1,1 +1,1 @@
-wd
+Tisina je zlato
