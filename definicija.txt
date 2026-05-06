@@ -1,0 +1,21 @@
+Robotika je multidisciplinarna grana nauke i inženjerstva koja se bavi dizajnom, konstrukcijom, 
+radom i primenom robota. Ona objedinjuje znanja iz informatike (posebno veštačke inteligencije), 
+elektrotehnike, mašinstva, elektronike i mehanike kako bi se stvorile mašine koje mogu autonomno 
+ili uz ljudsku kontrolu obavljati zadatke.
+
+Evo ključnih aspekata robotike:
+
+- Šta su roboti? To su elektro-mehanički uređaji koji imitiraju ponašanje ili izgled 
+  inteligentnih stvorenja (često čoveka) i programirani su da izvršavaju različite 
+  složene operacije.
+- Svrha: Roboti se koriste za automatizaciju zadataka, često u opasnim okruženjima 
+  (poput deminiranja), u industriji (proizvodnja), medicini, ili za svakodnevne 
+  kućne poslove.
+- Komponente: Robotika obuhvata računarske sisteme za kontrolu, senzore za povratnu spregu i 
+  obradu informacija.
+- Poreklo pojma: Termin je prvi uveo pisac Ajzak Asimov 1942. godine.
+
+Robotika je danas neizostavna u razvoju fleksibilnih proizvodnih sistema, a budućnost donosi 
+još veću integraciju veštačke inteligencije (AI), omogućavajući robotima da samostalno 
+donose odluke.
+  
